@@ -2,4 +2,5 @@ version: STSv1
 mode: enforce
 mx: in1-smtp.messagingengine.com
 mx: in2-smtp.messagingengine.com
+mx: mail.cnrd.foo
 max_age: 604800
